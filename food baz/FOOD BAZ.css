@@ -1,0 +1,344 @@
+body{
+    background-color: rgb(255, 242, 225);
+   
+}
+/* PRIMARY BUTTON CSS */
+.btn-primary {
+    color: #fff;
+    background-color: #ff8e28;
+    border-color: #ff8e28;
+  }
+  
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #ff8e28;
+    border-color: #ff8e28;
+  }
+  
+  .btn-primary:focus, .btn-primary.focus {
+    color: #fff;
+    background-color: #ff8e28;
+    border-color: #ff8e28;
+    box-shadow: 0 0 0 0.2rem #ff8e28;
+  }
+  
+  .btn-primary.disabled, .btn-primary:disabled {
+    color: #fff;
+    background-color: #ff8e28;
+    border-color: #ff8e28;
+  }
+  
+  .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
+  .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #ff8e28;
+    border-color: #ff8e28;
+  }
+  
+  .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
+  .show > .btn-primary.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+  }
+
+
+
+/* first section */
+.banner{
+    background-color: white;
+
+}
+.lines{
+    color: darkorange;
+}
+small{
+    font-size: 10px;
+}
+.inner-banner{
+    font-family: 'Sofia',cursive;
+    font-size: 22px;
+    color: rgb(250, 130, 44);
+    margin-top: 100px;
+}
+nav a{
+    text-transform: uppercase;
+}
+h2{
+    font-size: 50px;
+    font-weight:900;
+    width: 50%;
+}
+p.blog{
+    color: rgb(184, 175, 175);
+    width: 60%;
+}
+.blog2{
+    margin-top: 10%;
+    text-align: right;
+    float: right;
+}
+.blog3{
+    
+    text-align: right;
+    width: 70%;
+    float: right;
+    
+}
+.small_01{
+    float: right;
+}
+.facebook{
+    font-size: 12px;
+    margin-top: 40%;
+    margin-bottom: 10%;
+}
+.fab{
+    margin-left: 20px;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* second section */
+.ckicken{
+    margin: 10%;
+}
+.popular{
+    text-align: center;
+    margin-top: 100px;
+}
+.popular_menu{
+    font-family: 'Sofia',cursive;
+    font-size: 22px;
+    color: rgb(250, 130, 44);
+}
+.went{
+    font-weight: 900;
+    font-size: 40px;
+}
+.inside{
+    font-size: 50px;
+    float: right;
+}
+.ckicken .card:hover {
+    background-color:rgb(247, 166, 16);
+    color: rgb(250, 249, 246);
+}
+/* .ckicken .card3{
+    background-color:rgb(247, 166, 16);
+    color: rgb(250, 249, 246);
+} */
+.card_head{
+    margin-left: 18px;
+    margin-top: 20px;
+}
+.roundedcircle{
+    position:absolute;
+    top: 15%;
+    left: 65%;
+    width: 80%;
+}
+.food{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 900;
+    width: 50%;
+    font-family: sans-serif;
+}
+.good_food{
+    width: 50%;
+    color: silver;
+}
+.order{
+    color: orange;
+    font-size: 30px;
+    font-weight: 600;
+}
+.special{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.roasted_chicken{
+    position: absolute;
+    left: 80%;
+    height: 90%;
+    top: 35px;
+    
+}
+.food2{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: sans-serif;
+    text-align: center;
+}
+.dishes{
+    background-color: white;
+    margin-right: 20px;
+    padding: 10px;
+    font-weight: bold;
+}
+.dishes2{
+    margin-right: 20px;
+    font-weight: bold;
+}
+.inner-banner2{
+    font-family: 'Sofia',cursive;
+    font-size: 22px;
+    color: rgb(250, 130, 44);
+    margin-top: 100px;
+    text-align: center;
+}
+.all_products{
+    margin-left: 40%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+/* Fifth Section CSS */
+.fifthSection {
+    background: url("images/top-view-burgers-fries-with-pickles-copy-space_23-2148784454.jpg") no-repeat scroll center right #000;
+    background-size: cover;
+}
+.special_combo{
+    font-family: 'Sofia',cursive;
+    font-size: 22px;
+    color: rgb(250, 130, 44);
+    margin-top: 100px;
+   
+}
+.food3{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900;
+    width: 30%;
+    font-family: sans-serif;
+    
+}
+.good_food2{
+    width: 25%;
+    color: silver;
+    
+}
+.the_best{
+    margin-left: 20%;
+    margin-bottom: 10%;
+}
+.kombo_pack{
+    position: absolute;
+    left: 50%;
+    height: 80%;
+    width: 50%;
+}
+.black{
+    background-color: black;
+}
+.download_app{
+    font-family: 'Sofia',cursive;
+    font-size: 22px;
+    color: rgb(250, 130, 44);
+    margin-top: 100px;
+    
+}
+.pic{
+    width: 60%;
+    margin-left: 20%;
+    position: absolute;
+    bottom: 20%;
+    
+}
+.store_img{
+    width: 20%;
+    margin-bottom: 10%;
+}
+.food4{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900;
+    width: 60%;
+    font-family: sans-serif;
+    
+}
+.margin1{
+    margin-top: 10%;
+}
+.stuff{
+    
+    width: 200px;
+    height: 200px;
+    left: 10%;
+  
+}
+.experince{
+    font-size: 13px;
+    color: coral;
+    font-weight: 500;
+}
+.feedback{
+    margin-top: 15%;
+    margin-left: 15%;
+}
+.customer{
+    font-family: 'Sofia',cursive;
+    font-size: 22px;
+    color: rgb(250, 130, 44);
+}
+.client{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900;
+    width: 60%;
+    font-family: sans-serif;
+    color: white;
+}
+.our_client{
+    color: white;
+    width: 60%;
+}
+.happy_costomer{
+    color: orange;
+    font-size: 40px;
+    font-weight: 900;
+    
+}
+.recent{
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Sofia',cursive;
+    color: rgb(250, 130, 44);
+    margin-top: 10%;
+}
+.latest_news{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: sans-serif; 
+    margin-bottom: 5%;
+}
+.december{
+    color: rgb(250, 130, 44); 
+}
+.all_Blog{
+    margin-left: 40%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.subscribe {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 900;
+
+}
+.Foodbaz {
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    font-family:  'Arial Narrow Bold';
+    
+
+}
+.rasalina{
+    position: absolute;
+    left: 60%;
+}
